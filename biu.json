@@ -1,12 +1,12 @@
 {
 "Home": [
-{"key":"历史","title":"历史","pic":"https://epg.112114.xyz/bingimg"},
-{"key":"APP","title":"APP","pic":"https://epg.112114.xyz/bingimg"},
-{"key":"网页","title":"网页","pic":"https://epg.112114.xyz/bingimg"},
-{"key":"采集","title":"采集","pic":"https://epg.112114.xyz/bingimg"},
-{"key":"直播","title":"直播","pic":"https://epg.112114.xyz/bingimg"},
-{"key":"收藏","title":"收藏","pic":"https://epg.112114.xyz/bingimg"},
-{"key":"推送","title":"推送","pic":"https://epg.112114.xyz/bingimg"}
+{"key":"历史","title":"历史","pic":"https://cdn.staticaly.com/gh/toto320/TVBoxOSC/main/pic/win11B.jpg"},
+{"key":"APP","title":"APP","pic":"https://cdn.staticaly.com/gh/toto320/TVBoxOSC/main/pic/Pic5.jfif"},
+{"key":"网页","title":"网页","pic":"https://cdn.staticaly.com/gh/toto320/TVBoxOSC/main/pic/cos3.jfif"},
+{"key":"采集","title":"采集","pic":"https://cdn.staticaly.com/gh/toto320/TVBoxOSC/main/pic/w.png"},
+{"key":"直播","title":"直播","pic":"https://cdn.staticaly.com/gh/toto320/TVBoxOSC/main/pic/Pic5.jfif"},
+{"key":"收藏","title":"收藏","pic":"https://cdn.staticaly.com/gh/toto320/TVBoxOSC/main/pic/cos3.jfif"},
+{"key":"推送","title":"推送","pic":"https://cdn.staticaly.com/gh/toto320/TVBoxOSC/main/pic/win11B.jpg"}
 ],
 "zhuyejiekou": [
 {"name":"南府追剧(高清M)","url":"http://iapp.nfuxs.club/nfuxs.php/v1.vod"},
