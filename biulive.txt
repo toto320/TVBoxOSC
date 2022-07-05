@@ -1,4 +1,4 @@
-央视高清,#genre#
+💥央视高清,#genre#
 CCTV-4K超高清[1920],http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 CCTV-4K超高清[1920],http://117.148.179.157/PLTV/88888888/224/3221233400/index.m3u8
 CCTV1[1920],http://39.135.32.236:6610/PLTV/77777777/224/3221225654/index.m3u8?
@@ -65,7 +65,7 @@ CNC英文[1280],http://39.135.138.59:18890/PLTV/88888910/224/3221225693/index.m3
 央视军事[1280],http://117.148.179.134/PLTV/88888888/224/3221231504/index.m3u8
 央视新闻[1920],http://livecdn.dmqhyadmin.com/hls/xjminhe.m3u8
 
-卫视高清,#genre#
+💟卫视高清,#genre#
 湖南卫视[1920],http://39.135.32.236:6610/PLTV/77777777/224/3221225692/index.m3u8?
 江苏卫视[1920],http://39.135.32.236:6610/PLTV/77777777/224/3221225722/index.m3u8?
 浙江卫视[1920],http://39.135.32.236:6610/PLTV/77777777/224/3221225695/index.m3u8?
@@ -192,7 +192,7 @@ CNC英文[1280],http://39.135.138.59:18890/PLTV/88888910/224/3221225693/index.m3
 纪实人文[1920],http://live.tvfix.org/hls/docuchina.m3u8
 全纪实[1920],http://live.tvfix.org/hls/qjshd.m3u8
 
-精彩体育,#genre#
+🏀精彩体育,#genre#
 冬奥会开幕式[1920],https://res.cctvnews.cctv.com/video/1015/p/93931028159220121707001015/93931028160478413107011015/8a6a3c5f9394485ebb77f2d19fafb9fd-4.m3u8?region_type=1
 PPTV体育[1920],http://117.148.179.172/PLTV/88888888/224/3221231778/index.m3u8
 超级体育[1920],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225622/index.m3u8
@@ -236,7 +236,7 @@ PPTV体育[1920],http://117.148.179.172/PLTV/88888888/224/3221231778/index.m3u8
 魅力足球[1920],http://shbu.live.bestvcdn.com.cn:8080/live/program/live/mlyyhd/4000000/mnf.m3u8
 魅力足球[1920],http://140.207.241.3:8080/live/program/live/mlyyhd/4000000/d1.m3u8?
 
-精彩广东,#genre#
+💖精彩广东,#genre#
 广东卫视[1920],http://39.135.32.24:6610/000000001000/1000000001000028357/1.m3u8?xtkg?zguangd
 广东卫视[1280],http://zb.688768.xyz/jiudian/jddb.php?playurl=http://120.84.96.222:808/hls/16/index.m3u8
 广东卫视[1280],http://zb.688768.xyz/jiudian/jddb.php?playurl=http://120.84.96.222:808/hls/121/index.m3u8
@@ -270,7 +270,7 @@ PPTV体育[1920],http://117.148.179.172/PLTV/88888888/224/3221231778/index.m3u8
 芒果TV[1920],http://39.135.55.72:6610/PLTV/88888888/224/3221226692/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 星光大道[1280],https://hls.cntv.myhwcdn.cn/asp/hls/2000/0303000a/3/default/a6c58a45cd0545378b2b29454a350689/2000.m3u8
 
-精彩港澳,#genre#
+💦精彩港澳,#genre#
 凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰资讯,http://39.135.55.72:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 凤凰资讯,http://58.247.68.5:61985/hlsok/2c3cc674/index.m3u8
@@ -309,7 +309,7 @@ ID Fashion,https://idfashion.cdn-02.cosmonova.net.ua/hls/idfashion_ua_hi/index.m
 ID Fashion,https://idfashion.cdn-03.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
 Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 
-代理频道,#genre#
+🌳代理频道,#genre#
 凤凰资讯,https://ytb.52sf.ga/jmsytb.m3u8?c=42
 凤凰中文,https://ytb.52sf.ga/jmsytb.m3u8?c=19
 中天新闻,https://ytb.52sf.ga/jmsytb.m3u8?c=1
@@ -341,7 +341,7 @@ GTVDrama2,https://ytb.52sf.ga/jmsytb.m3u8?c=26
 华视综艺,https://ytb.52sf.ga/jmsytb.m3u8?c=34
 靖天电视,https://ytb.52sf.ga/jmsytb.m3u8?c=41
 
-精彩音乐,#genre#
+🌺精彩音乐,#genre#
 斗鱼音乐[1920],http://maomao.kandiantv.cn/douyu1.php?id=9588891
 斗鱼音乐[1920],http://qytv.win86.top/tv/dytv.php?id=9588891
 斗鱼音乐[1920],http://epg.112114.xyz/douyu/9588891
@@ -548,7 +548,7 @@ KPoptv[1280],https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
 Vibee音乐[1280],http://de1se01.v2beat.live/chunks.m3u8
 FirstMusic[1920],http://rtmp.one.by:2300/
 
-电影轮播,#genre#
+🔫电影轮播,#genre#
 可乐影院,http://maomao.kandiantv.cn/douyu1.php?id=20415
 特辑影院,http://maomao.kandiantv.cn/douyu1.php?id=3637778
 贝爷影院,http://maomao.kandiantv.cn/douyu1.php?id=252802
@@ -618,7 +618,7 @@ CHC动作电影,http://117.148.179.157/PLTV/88888888/224/3221232945/index.m3u8?z
 卧底警匪片,http://1.117.152.239:39000/huya.php?id=11352886
 飞车电影,http://1.117.152.239:39000/huya.php?id=11279247
 
-电视剧轮播,#genre#
+☘️电视剧轮播,#genre#
 倚天屠龙记,http://1.117.152.239:39000/huya.php?id=11602051
 神雕侠侣,http://1.117.152.239:39000/huya.php?id=11352964
 斗鱼$庆余年,http://qytv.win86.top/tv/dytv.php?id=7489563
@@ -628,7 +628,7 @@ CHC动作电影,http://117.148.179.157/PLTV/88888888/224/3221232945/index.m3u8?z
 军旅剧场[1920],http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225669/index.m3u8
 军旅剧场[1920],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225669/index.m3u8
 
-精彩神影,#genre#
+💘精彩神影,#genre#
 长津湖[1920*816],https://m3u8.taopianplay.com/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/a0ba49ba-87b8-41b4-8ad3-50b8fc26ffd8/44873/992f5707-079b-4a14-8410-339e4336fcd5/SD/playlist.m3u8
 战狼1[1920],https://www.taopianplay.com/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/09e075a8-2f53-49d9-bb94-aae2cd0e1c73/1318/191d1b43-7364-4122-a1b0-2ef12673e364/SD/playlist.m3u8
 战狼2[1920],https://www.taopianplay.com/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/09e075a8-2f53-49d9-bb94-aae2cd0e1c73/1317/cf1cc8c7-4ee5-485d-9985-8b17cef40505/SD/playlist.m3u8
@@ -714,7 +714,7 @@ OL诱惑[1920],https://www.taopianplay.com/taopian/84e2601a-c8ef-41e9-815a-45324
 鸭王1[1920*816],https://www.taopianplay.com/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/feb7d963-714f-47a8-8094-714255671600/2667/7fa7eb2b-9ed3-4ba7-b09a-c711f671380e/SD/playlist.m3u8
 鸭王2[1920],https://www.taopianplay.com/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/a0ba49ba-87b8-41b4-8ad3-50b8fc26ffd8/2668/1e82c268-af6c-4755-b850-37d80d0170bb/SD/playlist.m3u8
 
-精彩神剧,#genre#
+📀精彩神剧,#genre#
 夫妻的世界02[1920],https://www.taopianplay.com/taopian/54fdb532-e89b-4567-bc07-aa93a0c6a79b/a891bf2e-a823-4ae0-ac07-107cdf1703d8/29985/27df315b-9182-4916-8629-8209b70a8798/SD/playlist.m3u8
 夫妻的世界03[1920],https://www.taopianplay.com/taopian/54fdb532-e89b-4567-bc07-aa93a0c6a79b/a891bf2e-a823-4ae0-ac07-107cdf1703d8/29985/b9595563-ba0d-46e4-a5f6-732c50316106/SD/playlist.m3u8
 夫妻的世界05[1920],https://www.taopianplay.com/taopian/54fdb532-e89b-4567-bc07-aa93a0c6a79b/a891bf2e-a823-4ae0-ac07-107cdf1703d8/29985/825e8836-3345-4cb7-94e8-633d7b327c6c/SD/playlist.m3u8
@@ -726,7 +726,7 @@ OL诱惑[1920],https://www.taopianplay.com/taopian/84e2601a-c8ef-41e9-815a-45324
 夫妻的世界15[1920],https://www.taopianplay.com/taopian/54fdb532-e89b-4567-bc07-aa93a0c6a79b/a891bf2e-a823-4ae0-ac07-107cdf1703d8/29985/7ae25c03-9a48-4c3c-8be9-46d77f994e83/SD/playlist.m3u8
 夫妻的世界16[1920],https://www.taopianplay.com/taopian/54fdb532-e89b-4567-bc07-aa93a0c6a79b/a891bf2e-a823-4ae0-ac07-107cdf1703d8/29985/17825eb1-9484-4618-8384-d980ada44628/SD/playlist.m3u8
 
-精彩斗斗,#genre#
+🎏精彩斗斗,#genre#
 中午怪蜀黎,http://maomao.kandiantv.cn/douyu1.php?id=427397
 中午怪蜀黎,http://epg.112114.xyz/douyu/427397
 HiFi4.0车模写真,http://maomao.kandiantv.cn/douyu1.php?id=427397
@@ -858,7 +858,7 @@ Vita蔓蔓,http://qytv.win86.top/tv/dytv.php?id=7630506
 苏恩Olivia,http://qytv.win86.top/tv/dytv.php?id=3559749
 户外安安,http://qytv.win86.top/tv/dytv.php?id=9797532
 
-精彩牙牙,#genre#
+👍精彩牙牙,#genre#
 啦啦队1,http://1.117.152.239:39000/huya.php?id=19197216
 啦啦队1,http://txtest-xp2p.p2p.huya.com/src/1099531728616-1099531728616-86332450422128640-2199063580688-10057-A-0-1.xs
 林小软,http://txtest-xp2p.p2p.huya.com/src/1099531627804-1099531627804-85899466179084288-2199063379064-10057-A-0-1.xs
@@ -907,7 +907,7 @@ Vita蔓蔓,http://qytv.win86.top/tv/dytv.php?id=7630506
 陈不肥,http://epg.112114.xyz/huya/713259
 百变女王,http://epg.112114.xyz/huya/668367
 
-精彩时尚,#genre#
+😊精彩时尚,#genre#
 imode时尚[1920],https://juyunlive.juyun.tv/live/24950198.m3u8
 全球时尚[1280],https://vcngfcssai.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
 FashionOne[1280],http://193.33.240.8:8080/fashion_one_hd/index.m3u8
@@ -920,7 +920,7 @@ WFC(RU)[1920],https://wfcrus.mediacdn.ru/cdn/wfcrusweb/playlist_hdhigh.m3u8
 MiamiJenny[1280],https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
 JennyLive[1280],https://59ec5453559f0.streamlock.net/JennyLive/smil:JennyLiveWEB/playlist.m3u8
 
-精彩游戏,#genre#
+🎨精彩游戏,#genre#
 虎牙-KPL,http://txtest-xp2p.p2p.huya.com/src/78941969-2691358968-11559298749356310528-3120471200-10057-A-0-1.xs
 斗鱼-KPL,http://tx2play1.douyucdn.cn/live/1863767rkpl_4000p.xs?
 企鹅-KPL,https://117.175.57.33/3954-dl.liveplay.myqcloud.com/live/3954_127935490_4000.flv
