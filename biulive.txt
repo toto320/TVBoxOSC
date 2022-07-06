@@ -351,6 +351,8 @@ GTVDrama2,https://ytb.52sf.ga/jmsytb.m3u8?c=26
 华语点歌[1920],http://qytv.win86.top/tv/dytv.php?id=3186217&type=.flv
 JAY歌曲轮播[1920],http://maomao.kandiantv.cn/douyu1.php?id=7537296
 YY音乐,http://luotuo.ycchenrong.cn/dl/yy.php?id=54880976
+YY舞蹈,http://luotuo.ycchenrong.cn/dl/yy.php?id=22490906
+YY舞蹈,http://mmitv.top/pltv/yy.php?id=22490906
 kpop女团[1920],http://qytv.win86.top/tv/dytv.php?id=329667
 Sone少女时代[1920],http://qytv.win86.top/tv/dytv.php?id=211561
 MTV音乐tPop[1280],http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
@@ -906,6 +908,13 @@ Vita蔓蔓,http://qytv.win86.top/tv/dytv.php?id=7630506
 津门舞蹈,http://epg.112114.xyz/huya/513609
 陈不肥,http://epg.112114.xyz/huya/713259
 百变女王,http://epg.112114.xyz/huya/668367
+
+🎸精彩YY,#genre#
+性感腰精笑笑,http://mmitv.top/pltv/yy.php?id=1350781922
+性感热舞晨飘飘,http://mmitv.top/pltv/yy.php?id=23190819
+性感舞姬会沁,http://mmitv.top/pltv/yy.php?id=1352926401
+性感妩媚白玫瑰,http://mmitv.top/pltv/yy.php?id=1346950960
+性感劲舞小张张,http://mmitv.top/pltv/yy.php?id=26583010
 
 😊精彩时尚,#genre#
 imode时尚[1920],https://juyunlive.juyun.tv/live/24950198.m3u8
