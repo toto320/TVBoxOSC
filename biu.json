@@ -4,6 +4,7 @@
 {"key":"APP","title":"APP","pic":"https://cdn.staticaly.com/gh/toto320/TVBoxOSC/main/pic/Pic5.jfif"},
 {"key":"网页","title":"网页","pic":"https://cdn.staticaly.com/gh/toto320/TVBoxOSC/main/pic/Pic5.jfif"},
 {"key":"采集","title":"采集","pic":"https://cdn.staticaly.com/gh/toto320/TVBoxOSC/main/pic/Pic5.jfif"},
+{"key":"轮播","title":"轮播","pic":"https://cdn.staticaly.com/gh/toto320/TVBoxOSC/main/pic/Pic5.jfif"},
 {"key":"直播","title":"直播","pic":"https://cdn.staticaly.com/gh/toto320/TVBoxOSC/main/pic/Pic5.jfif"},
 {"key":"收藏","title":"收藏","pic":"https://cdn.staticaly.com/gh/toto320/TVBoxOSC/main/pic/Pic5.jfif"},
 {"key":"推送","title":"推送","pic":"https://cdn.staticaly.com/gh/toto320/TVBoxOSC/main/pic/w.png"}
@@ -72,8 +73,30 @@
 {"name":"7788","url":"http://www.zycaiji.net:7788/api.php"}
 ],
 
+"lunbo":[
+{"name":"斗鱼一起看","fanye":"aHR0cHM6Ly93d3cuZG91eXUuY29tL2dhcGkvcmtjL2RpcmVjdG9yeS9taXhMaXN0LzJfMjA4Lw==","qianzhui":"aHR0cHM6Ly9tLmRvdXl1LmNvbS8="},
+{"name":"斗鱼舞蹈","fanye":"aHR0cHM6Ly93d3cuZG91eXUuY29tL2dhcGkvcmtjL2RpcmVjdG9yeS9taXhMaXN0LzJfMTAwOC8=","qianzhui":"aHR0cHM6Ly9tLmRvdXl1LmNvbS8="},
+{"name":"斗鱼颜值","fanye":"aHR0cHM6Ly93d3cuZG91eXUuY29tL2dhcGkvcmtjL2RpcmVjdG9yeS9taXhMaXN0LzJfMzExLw==","qianzhui":"aHR0cHM6Ly9tLmRvdXl1LmNvbS8="},
+{"name":"斗鱼音乐","fanye":"aHR0cHM6Ly93d3cuZG91eXUuY29tL2dhcGkvcmtjL2RpcmVjdG9yeS9taXhMaXN0LzJfMTc1Lw==","qianzhui":"aHR0cHM6Ly9tLmRvdXl1LmNvbS8="},
+{"name":"斗鱼户外","fanye":"aHR0cHM6Ly93d3cuZG91eXUuY29tL2dhcGkvcmtjL2RpcmVjdG9yeS9taXhMaXN0LzJfMTI0Lw==","qianzhui":"aHR0cHM6Ly9tLmRvdXl1LmNvbS8="},
+{"name":"斗鱼二次元","fanye":"aHR0cHM6Ly93d3cuZG91eXUuY29tL2dhcGkvcmtjL2RpcmVjdG9yeS9taXhMaXN0LzJfMTc0Lw==","qianzhui":"aHR0cHM6Ly9tLmRvdXl1LmNvbS8="},
+{"name":"DY王者荣耀","fanye":"aHR0cHM6Ly93d3cuZG91eXUuY29tL2dhcGkvcmtjL2RpcmVjdG9yeS9taXhMaXN0LzJfMTgxLw==","qianzhui":"aHR0cHM6Ly9tLmRvdXl1LmNvbS8="},
+{"name":"DY趣生活","fanye":"aHR0cHM6Ly93d3cuZG91eXUuY29tL2dhcGkvcmtjL2RpcmVjdG9yeS9taXhMaXN0LzJfMTA5Ny8=","qianzhui":"aHR0cHM6Ly9tLmRvdXl1LmNvbS8="},
+{"name":"虎牙一起看","fanye":"aHR0cHM6Ly93d3cuaHV5YS5jb20vY2FjaGUucGhwP209TGl2ZUxpc3QmZG89Z2V0TGl2ZUxpc3RCeVBhZ2UmZ2FtZUlkPTIxMzUmdGFnQWxsPTAmY2FsbGJhY2s9Z2V0TGl2ZUxpc3RKc29ucENhbGxiYWNrJnBhZ2U9","qianzhui":"aHR0cHM6Ly9lcGcuMTEyMTE0Lnh5ei9odXlhLw=="},
+{"name":"虎牙星秀","fanye":"aHR0cHM6Ly93d3cuaHV5YS5jb20vY2FjaGUucGhwP209TGl2ZUxpc3QmZG89Z2V0TGl2ZUxpc3RCeVBhZ2UmZ2FtZUlkPTE2NjMmdGFnQWxsPTAmY2FsbGJhY2s9Z2V0TGl2ZUxpc3RKc29ucENhbGxiYWNrJnBhZ2U9","qianzhui":"aHR0cHM6Ly9lcGcuMTEyMTE0Lnh5ei9odXlhLw=="},
+{"name":"虎牙颜值","fanye":"aHR0cHM6Ly93d3cuaHV5YS5jb20vY2FjaGUucGhwP209TGl2ZUxpc3QmZG89Z2V0TGl2ZUxpc3RCeVBhZ2UmZ2FtZUlkPTIxNjgmdGFnQWxsPTAmY2FsbGJhY2s9Z2V0TGl2ZUxpc3RKc29ucENhbGxiYWNrJnBhZ2U9","qianzhui":"aHR0cHM6Ly9lcGcuMTEyMTE0Lnh5ei9odXlhLw=="},
+{"name":"虎牙二次元","fanye":"aHR0cHM6Ly93d3cuaHV5YS5jb20vY2FjaGUucGhwP209TGl2ZUxpc3QmZG89Z2V0TGl2ZUxpc3RCeVBhZ2UmZ2FtZUlkPTI2MzMmdGFnQWxsPTAmY2FsbGJhY2s9Z2V0TGl2ZUxpc3RKc29ucENhbGxiYWNrJnBhZ2U9","qianzhui":"aHR0cHM6Ly9lcGcuMTEyMTE0Lnh5ei9odXlhLw=="},
+{"name":"虎牙户外","fanye":"aHR0cHM6Ly93d3cuaHV5YS5jb20vY2FjaGUucGhwP209TGl2ZUxpc3QmZG89Z2V0TGl2ZUxpc3RCeVBhZ2UmZ2FtZUlkPTIxNjUmdGFnQWxsPTAmY2FsbGJhY2s9Z2V0TGl2ZUxpc3RKc29ucENhbGxiYWNrJnBhZ2U9","qianzhui":"aHR0cHM6Ly9lcGcuMTEyMTE0Lnh5ei9odXlhLw=="},
+{"name":"虎牙体育","fanye":"aHR0cHM6Ly93d3cuaHV5YS5jb20vY2FjaGUucGhwP209TGl2ZUxpc3QmZG89Z2V0TGl2ZUxpc3RCeVBhZ2UmZ2FtZUlkPTIzNTYmdGFnQWxsPTAmY2FsbGJhY2s9Z2V0TGl2ZUxpc3RKc29ucENhbGxiYWNrJnBhZ2U9","qianzhui":"aHR0cHM6Ly9lcGcuMTEyMTE0Lnh5ei9odXlhLw=="},
+{"name":"HY王者荣耀","fanye":"aHR0cHM6Ly93d3cuaHV5YS5jb20vY2FjaGUucGhwP209TGl2ZUxpc3QmZG89Z2V0TGl2ZUxpc3RCeVBhZ2UmZ2FtZUlkPTIzMzYmdGFnQWxsPTAmY2FsbGJhY2s9Z2V0TGl2ZUxpc3RKc29ucENhbGxiYWNrJnBhZ2U9","qianzhui":"aHR0cHM6Ly9lcGcuMTEyMTE0Lnh5ei9odXlhLw=="},
+{"name":"B站一起看","fanye":"aHR0cHM6Ly9hcGkubGl2ZS5iaWxpYmlsaS5jb20veGxpdmUvd2ViLWludGVyZmFjZS92MS9zZWNvbmQvZ2V0TGlzdD9wbGF0Zm9ybT13ZWImcGFyZW50X2FyZWFfaWQ9MTAmYXJlYV9pZD0zMyZzb3J0X3R5cGU9b25saW5lJnBhZ2U9","qianzhui":"aHR0cDovL2Zhbmdzb25nLmxpdmUvaGxzL2JpbGkucGhwP2lkPQ=="},
+{"name":"B站舞见","fanye":"aHR0cHM6Ly9hcGkubGl2ZS5iaWxpYmlsaS5jb20veGxpdmUvd2ViLWludGVyZmFjZS92MS9zZWNvbmQvZ2V0TGlzdD9wbGF0Zm9ybT13ZWImcGFyZW50X2FyZWFfaWQ9MSZhcmVhX2lkPTIwNyZzb3J0X3R5cGU9b25saW5lJnBhZ2U9","qianzhui":"aHR0cDovL2Zhbmdzb25nLmxpdmUvaGxzL2JpbGkucGhwP2lkPQ=="},
+{"name":"B站放松","fanye":"aHR0cHM6Ly9hcGkubGl2ZS5iaWxpYmlsaS5jb20veGxpdmUvd2ViLWludGVyZmFjZS92MS9zZWNvbmQvZ2V0TGlzdD9wbGF0Zm9ybT13ZWImcGFyZW50X2FyZWFfaWQ9NSZhcmVhX2lkPTMzOSZzb3J0X3R5cGU9b25saW5lJnBhZ2U9","qianzhui":"aHR0cDovL2Zhbmdzb25nLmxpdmUvaGxzL2JpbGkucGhwP2lkPQ=="},
+{"name":"yy轮播","fanye":"aHR0cHM6Ly93d3cueXkuY29tL21vcmUvcGFnZS5hY3Rpb24/Yml6PXNpbmcmc3ViQml6PWlkeCZwYWdlPQ==","qianzhui":"aHR0cHM6Ly93d3cueXkuY29t"}
+],
+ 
 "zhujiexi": [
-//{"name":"293","url":"http://81.71.48.249:4456/jsonc/longxia.php?url=","header":{"User-Agent":"Dart/2.14 (dart:io)"}},
+{"name":"293","url":"http://81.71.48.249:4456/jsonc/longxia.php?url=","header":{"User-Agent":"Dart/2.14 (dart:io)"}},
 {"name":"线路27","url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
 {"name":"线路81","type": 1,"url": "http://81.71.48.249:4456/jsonc/293shipin.php?url=","i": "77"},
 {"name":"线路106","url":"http://106.55.234.91:4433/?url="},
